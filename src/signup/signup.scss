@@ -1,7 +1,5 @@
 $colors:("blue":#00A1E4,"dark_green":#04E762,"yellow":#F5B700,"pink":#DC0073);
-.login_wrapper_container{
-    width: 100vw;
-    height: 100vh;
+body{
     padding: 0px;
     margin: 0px;
     background: map-get($colors,"blue" );
@@ -11,7 +9,7 @@ $colors:("blue":#00A1E4,"dark_green":#04E762,"yellow":#F5B700,"pink":#DC0073);
     min-height: 90vh;
     min-width: 90vw;
 }
-.login_wrapper{
+.signup_wrapper{
     padding: 0px;
     margin: 0px;
     position: absolute;
@@ -49,7 +47,7 @@ $colors:("blue":#00A1E4,"dark_green":#04E762,"yellow":#F5B700,"pink":#DC0073);
 }
 @media (max-width:600px) {
 
-    .login_wrapper{
+    .signup_wrapper{
         height: 45vh;
         form{
             width: 100%;

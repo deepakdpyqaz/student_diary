@@ -21,3 +21,13 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+functions/
+.firebaserc
+firebase.json
+firebase.*
+*.rules
+database.rules.json
+firestore.indexes.json
+remoteconfig.template.json
+
+/src/firebaseConfig/firebase.jsx

@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500&display=swap');
+h1.title{
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-decoration: underline;
+    display: flex;
+    justify-content: space-around;
+}
+.change{
+    width: 100%;
+}
+.preview{
+    color: white;
+    background-color: black;
+    padding: 5px;
+    box-shadow: 0px 0px 5px 1px black;
+}

@@ -4,15 +4,17 @@ import {
   Route
 } from "react-router-dom";
 import Login from './login/Login';
+import Dashboard from './dashboard/Dashboard';
+import Signup from './signup/signup';
 function App() {
   return (
     <BrowserRouter>
       <Switch>
         <Route path="/dashboard">
-          Hello
+          <Dashboard/>
         </Route>
         <Route path="/signup">
-          <Login />
+          <Signup />
         </Route>
         <Route  path="/">
           <Login />
