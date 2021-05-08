@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500&display=swap');
+$colors:("blue":#00A1E4,"dark_green":#04E762,"yellow":#F5B700,"pink":#DC0073);
+.form_sidebar{
+    width: 50%;
+    height: 100%;
+    padding: 0px;
+    margin: 0px;
+    position: absolute;
+    background:url('../images/diary.jpg');
+    background-size: cover;
+    top: 0%;
+    h2{
+        position: absolute;
+        bottom: 5px;
+        right: 5px;
+        text-transform: capitalize;
+        font-family: 'Playfair Display', serif;
+        text-align: right;
+        color: map-get($colors, "pink" );
+    }
+}
+
+@media (max-width:600px)
+{
+    .form_sidebar{
+        display: none;
+    }
+}
