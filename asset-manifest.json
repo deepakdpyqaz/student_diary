@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/student_diary/static/css/main.0937fe13.chunk.css",
+    "main.js": "/student_diary/static/js/main.879254a6.chunk.js",
+    "main.js.map": "/student_diary/static/js/main.879254a6.chunk.js.map",
+    "runtime-main.js": "/student_diary/static/js/runtime-main.b502e3e9.js",
+    "runtime-main.js.map": "/student_diary/static/js/runtime-main.b502e3e9.js.map",
+    "static/css/2.800be05e.chunk.css": "/student_diary/static/css/2.800be05e.chunk.css",
+    "static/js/2.3814edc3.chunk.js": "/student_diary/static/js/2.3814edc3.chunk.js",
+    "static/js/2.3814edc3.chunk.js.map": "/student_diary/static/js/2.3814edc3.chunk.js.map",
+    "static/js/3.3600e98c.chunk.js": "/student_diary/static/js/3.3600e98c.chunk.js",
+    "static/js/3.3600e98c.chunk.js.map": "/student_diary/static/js/3.3600e98c.chunk.js.map",
+    "index.html": "/student_diary/index.html",
+    "static/css/2.800be05e.chunk.css.map": "/student_diary/static/css/2.800be05e.chunk.css.map",
+    "static/css/main.0937fe13.chunk.css.map": "/student_diary/static/css/main.0937fe13.chunk.css.map",
+    "static/js/2.3814edc3.chunk.js.LICENSE.txt": "/student_diary/static/js/2.3814edc3.chunk.js.LICENSE.txt",
+    "static/media/formSidebar.scss": "/student_diary/static/media/diary.4ecea9b9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b502e3e9.js",
+    "static/css/2.800be05e.chunk.css",
+    "static/js/2.3814edc3.chunk.js",
+    "static/css/main.0937fe13.chunk.css",
+    "static/js/main.879254a6.chunk.js"
+  ]
+}
