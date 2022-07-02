@@ -6,7 +6,11 @@
 # Preview of website 
 ### *[Visit Student diary](https://deepakdpyqaz.github.io/student_diary)*
 - The website had been hosted using github pages
+- Testing credentials:
+    - username: name@mail.com
+    - password: password
 
+⚠️ _Do not put any sensitive information on the testing account. The data on testing account would be cleared after sometime._
 ## Steps to install:-
 - Clone the repository
 - Initialise a node project by the command
